@@ -1,0 +1,22 @@
+# Python virtual environment
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+logs/*.csv
+
+# VS Code settings
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Other
+*.log
+config.bat
+node_modules
